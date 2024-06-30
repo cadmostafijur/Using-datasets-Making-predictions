@@ -1,1 +1,1 @@
-print("The objective of this analysis is to predict future crime data for various divisions in Bangladesh using historical data from 2010 to 2019. Specifically, we aim to identify which division is predicted to experience the highest increase in crime rates from 2020 to 2030.")
+print("The objective of this analysis is to predict future crime data for various divisions in Bangladesh using historical data from 2010 to 2019. Specifically, we aim to identify which division is predicted to experience the highest increase in crime rates from 2020 to 2030.
